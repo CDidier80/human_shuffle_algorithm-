@@ -1,6 +1,6 @@
 # human_shuffle_algorithm-
 
-                                               Shuffle Algorithm Mimicking Imperfect Human Shuffling
+                                      Shuffle Algorithm Mimicking Imperfect Human Shuffling
 
 The deck is cut into two halves, with one half going in each of the dealer's hands
 In a perfect shuffle, the bottom card of one half-deck is placed onto the bottom card of the other half-deck 21 times. The shuffler repeats this a few times.
