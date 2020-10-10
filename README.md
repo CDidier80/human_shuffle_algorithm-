@@ -13,8 +13,8 @@ The algorithm is implemented here in Javascript.
 
 myShuffleTestVersion.js includes a basic deck-buildng function (representing a standard 52 card deck) to pass to the shuffle algorithm
 myShuffleCommentVersion.js features the same algorithm with guiding comments
-myShuffle.js features the standalone code
+myShuffle.js features the standalone code with deck building function
 
-
+Test the code in node.js with terminal 
 
 
